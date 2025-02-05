@@ -1,15 +1,11 @@
 this is a list of numbers, something else
-this is a new line
 1
 2
 3
 4
-44
 5
 6
-66
 7
-77
 8
 9
 10
