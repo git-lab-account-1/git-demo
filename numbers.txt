@@ -1,8 +1,9 @@
-this is a list of numbers
+this is a list of 8 numbers
 1
 2
-3
+3, note
 4
 5
+11
 6
 7
